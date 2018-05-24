@@ -1,0 +1,6 @@
+CastRay.obj
+CastRay_initialize.obj
+CastRay_terminate.obj
+rtGetInf.obj
+rtGetNaN.obj
+rt_nonfinite.obj
